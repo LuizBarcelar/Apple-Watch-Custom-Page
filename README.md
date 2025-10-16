@@ -17,7 +17,7 @@ Uma página interativa inspirada na Apple, onde o usuário pode visualizar e per
 
 ## 📸 Preview
 
-![preview](https://prismatic-cactus-cb565a.netlify.app/)
+https://prismatic-cactus-cb565a.netlify.app/
 
 > *Imagem ilustrativa da página com opções de cores e tamanhos*
 
